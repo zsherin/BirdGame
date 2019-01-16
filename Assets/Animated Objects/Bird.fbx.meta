@@ -1,0 +1,168 @@
+fileFormatVersion: 2
+guid: c108e8ae6c372d2429c96b73c3592926
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Foot.L
+    100004: Foot.L_end
+    100006: Foot.R
+    100008: Foot.R_end
+    100010: Head
+    100012: Head_end
+    100014: Neck
+    100016: Pole.L
+    100018: Pole.L_end
+    100020: Pole.R
+    100022: Pole.R_end
+    100024: Root
+    100026: Shin.L
+    100028: Shin.L.001
+    100030: Shin.L_end
+    100032: Shin.R
+    100034: Shin.R.001
+    100036: Shin.R_end
+    100038: SpineMiddle
+    100040: Tailbone
+    100042: TailMid
+    100044: TailTip
+    100046: TailTip_end
+    100048: Thigh.L
+    100050: Thigh.R
+    100052: WingBase.L
+    100054: WingBase.R
+    100056: Wingtip.L
+    100058: Wingtip.L_end
+    100060: Wingtip.R
+    100062: Wingtip.R_end
+    100064: Armature
+    100066: Cylinder
+    400000: //RootNode
+    400002: Foot.L
+    400004: Foot.L_end
+    400006: Foot.R
+    400008: Foot.R_end
+    400010: Head
+    400012: Head_end
+    400014: Neck
+    400016: Pole.L
+    400018: Pole.L_end
+    400020: Pole.R
+    400022: Pole.R_end
+    400024: Root
+    400026: Shin.L
+    400028: Shin.L.001
+    400030: Shin.L_end
+    400032: Shin.R
+    400034: Shin.R.001
+    400036: Shin.R_end
+    400038: SpineMiddle
+    400040: Tailbone
+    400042: TailMid
+    400044: TailTip
+    400046: TailTip_end
+    400048: Thigh.L
+    400050: Thigh.R
+    400052: WingBase.L
+    400054: WingBase.R
+    400056: Wingtip.L
+    400058: Wingtip.L_end
+    400060: Wingtip.R
+    400062: Wingtip.R_end
+    400064: Armature
+    400066: Cylinder
+    2100000: Beak
+    2100002: BlackBody
+    2100004: YellowBelly
+    4300000: Cylinder
+    7400000: Armature|Action
+    7400002: Armature|Fly
+    7400004: Armature|Land
+    7400006: Armature|Peck
+    7400008: 'Armature|Stand '
+    7400010: Armature|Takeoff
+    9500000: //RootNode
+    13700000: Cylinder
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 0.01
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
